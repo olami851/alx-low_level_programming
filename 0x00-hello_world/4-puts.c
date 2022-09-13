@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 /**
-*Main: Using the 'Puts' function in C_programming
+*Main: Print the string using the 'puts' function
 *
-*Dispalying "Programming is like building a multilingual puzzle"
+*Description: Using the main function
 *
-*Return: zero(0)
+*This program displays "Programming is like building multilingual puzzle"
+*
+*Return: 0
 */
 int main(void)
 {
