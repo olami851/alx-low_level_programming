@@ -1,1 +1,1 @@
-first c_code
+puts_code
