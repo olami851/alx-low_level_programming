@@ -1,1 +1,1 @@
-assembler_script
+name_script
