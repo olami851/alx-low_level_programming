@@ -1,1 +1,1 @@
-compiler_script
+assembler_script
