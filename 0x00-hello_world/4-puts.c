@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
-*Main: Using the 'Puts' function in C_Programming
+*Main: Using the 'Puts' function in C_programming
 *
-*Display "Programming is like building a multilingual puzzle"
-*Return: 0
+*Dispalying "Programming is like building a multilingual puzzle"
+*
+*Return: zero(0)
 */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return 0;
+	return (0);
 }
