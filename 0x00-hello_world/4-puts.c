@@ -1,11 +1,14 @@
-#!/bin/bash
 #include <stdio.h>
-\**
-*programming is like building multilingual puzzle
+
+/**
 *
 *
-*\
-int main(void)
-{      puts("\"programming is like building a multilingual puzzle");
-	return(0);
+*Description: A C_program that displays "Programming is like building a multilingual puzzle"
+*
+*Return: zero(0)
+*/
+int main (void)
+{
+  puts("\"Programming is like building a multilingual puzzle");
+  return (0);
 }
