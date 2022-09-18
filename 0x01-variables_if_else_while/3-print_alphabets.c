@@ -1,20 +1,19 @@
 #include <stdio.h>
 /**
-*main - print lowercase then uppercase and follow it with new line
+*main - print lowercase then uppercase numbers followed by a new line
 *
 *Description: using the main function
-*this progran prints "Programming lowercase then uppercase with new line
+*this program prints "Programming that first prints lowercase then uppercase number and new line
 *
 *Return: 0
 */
 int main(void)
-{
-char ch;
-for (ch = 'b' ; ch <= 'r' ; ch++)
+{char ch;
+for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 	putchar(ch);
 }
-for (ch = 'B' ; ch <= 'R' ; ch++)
+for (ch = 'A' ; ch <= 'Z' ; ch++)
 {
 	putchar(ch);
 }
