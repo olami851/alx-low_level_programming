@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-*main - print lower and upper case with new line 
+*main - print lower and upper case alphabets
 *
 *Description: using the main function
-*this program prints "Programming that prints lower and upper case alphabets
+*this program prints "Programming lower and upper case alphabets
 *
 *Return: 0
 */
